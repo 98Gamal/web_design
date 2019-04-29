@@ -1,0 +1,17 @@
+#about{
+  
+    height:550px;
+    margin-top:20px;
+    text-align: center;
+    width:80px auto;
+    
+    
+}
+.about-p{
+    padding-top:10px;
+    line-height: 2;
+    font-size: 20px;
+}
+#about-head{
+    font-size: 56px;
+}

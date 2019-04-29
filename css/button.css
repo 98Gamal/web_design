@@ -1,0 +1,23 @@
+.cta{
+    width: 190px;
+    height:50px;
+    margin: 150px;
+    border-radius: 30px;
+    background-color:#253342;
+    color:white;
+    font-size: 120%;
+    box-shadow: 0 5px #999;
+    cursor: pointer;
+    border:none;
+    transition-duration: 0.009s;
+}.cta:active{
+    box-shadow: 0px 0px #666;
+    transform:translateY(5px)
+}
+.cta.tuts{
+    box-shadow: 0 5px rgb(134, 109, 109);
+    cursor: pointer;
+    background-color:#999;
+    color:white;
+    margin: 20px;
+}
